@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://nimblictech.com/sitemap.xml
